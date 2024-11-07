@@ -3,13 +3,15 @@
 A classic Snake Game built using Java and essential Java libraries like JFrame, JPanel, and ActionListener. This project showcases basic game development concepts, including event handling, GUI components, and animation in Java.
 
 # Features of the Snake Game
-Smooth Gameplay
+<ul>
+  <li>The game provides a classic Snake experience with smooth and responsive controls. Players can easily navigate the snake using arrow keys, making the game enjoyable and intuitive.
+Difficulty Levels</li>
+  <li>Choose from Easy, Medium, and Hard difficulty levels. Each difficulty affects the snake’s speed, giving players the option to challenge themselves as they progress.
+Apple Counter and Scoring System</li>
+</ul>
 
-The game provides a classic Snake experience with smooth and responsive controls. Players can easily navigate the snake using arrow keys, making the game enjoyable and intuitive.
-Difficulty Levels
 
-Choose from Easy, Medium, and Hard difficulty levels. Each difficulty affects the snake’s speed, giving players the option to challenge themselves as they progress.
-Apple Counter and Scoring System
+
 
 Tracks the number of apples eaten during the game. The score is displayed on the game-over screen, allowing players to keep track of their achievements and strive for higher scores.
 Game-Over Message
